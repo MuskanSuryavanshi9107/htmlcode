@@ -1,5 +1,3 @@
-# htmlcode
-html code
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -10,7 +8,6 @@ html code
     <link rel="stylesheet" href="styles.css">
 </head>
 <body>
-
     <!-- Header Section -->
     <header>
         <div class="container">
@@ -26,7 +23,6 @@ html code
             </nav>
         </div>
     </header>
-
     <!-- Hero Section -->
     <section id="home" class="hero">
         <div class="hero-content">
@@ -35,7 +31,6 @@ html code
             <a href="#contact" class="cta-button">Get a Quote</a>
         </div>
     </section>
-
     <!-- Services Section -->
     <section id="services" class="services">
         <div class="container">
@@ -57,16 +52,14 @@ html code
             </div>
         </div>
     </section>
-
-    <!-- About Us Section -->
+  <!-- About Us Section -->
     <section id="about" class="about">
         <div class="container">
             <h2>About Us</h2>
             <p>We are a trusted team of experienced whitewash contractors specializing in residential and commercial painting. Our goal is to provide quality, professional services tailored to meet your needs.</p>
         </div>
     </section>
-
-    <!-- Portfolio Section -->
+  <!-- Portfolio Section -->
     <section id="portfolio" class="portfolio">
         <div class="container">
             <h2>Our Portfolio</h2>
@@ -78,7 +71,6 @@ html code
             </div>
         </div>
     </section>
-
     <!-- Contact Section -->
     <section id="contact" class="contact">
         <div class="container">
@@ -91,7 +83,6 @@ html code
             </form>
         </div>
     </section>
-
     <!-- Footer Section -->
     <footer>
         <div class="container">
